@@ -10,8 +10,5 @@ if ( (a == "Sim" || a == "sim") & (b=="Sim" || b== "sim") )
 }
 else if (b == "batata"){
     Console.WriteLine("batata");
-}
-else
-{
-    Console.WriteLine("eh mentira");
+    Console.WriteLine(  "oi");
 }
